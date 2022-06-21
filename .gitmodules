@@ -1,0 +1,6 @@
+[submodule "external/fmt"]
+	path = external/fmt
+	url = https://github.com/fmtlib/fmt
+[submodule "external/boost-android"]
+	path = external/boost-android
+	url = https://github.com/moritz-wundke/Boost-for-Android
